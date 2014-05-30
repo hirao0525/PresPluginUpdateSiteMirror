@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/info.matsuzawalab.PresPlugin_3.7.3.jar" id="info.matsuzawalab.PresPlugin" version="3.7.3"/>
+</site>
