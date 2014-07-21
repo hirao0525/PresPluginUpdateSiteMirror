@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/info.matsuzawalab.PresPlugin_3.7.3.jar" id="info.matsuzawalab.PresPlugin" version="3.7.3">
+   <feature url="features/info.matsuzawalab.PresPlugin_3.7.4.jar" id="info.matsuzawalab.PresPlugin" version="3.7.4">
       <category name="info.matsuzawalab.presplugin"/>
    </feature>
    <category-def name="info.matsuzawalab.presplugin" label="info.matsuzawalab.presplugin"/>
